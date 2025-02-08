@@ -21,6 +21,12 @@ Finally, I used a CTE (Common Table Expression) to find high-spending customersâ
 
 Overall, MySQL helped me analyze customer behavior using these three techniques. Window Functions showed sales trends, Subqueries identified frequent buyers, and CTEs found high-value customers. These insights are useful for businesses to improve sales and customer relationships. 
 
+*OUTPUT* : ![Image](https://github.com/user-attachments/assets/1bcec6d2-b948-4670-93e8-3982e8818c92)
+
+![Image](https://github.com/user-attachments/assets/f07ebbe2-4fa8-46b9-ae60-d39130829578)
+
+
+
 
 
 
